@@ -8,6 +8,7 @@ import nnfs
 from nnfs.datasets import spiral_data, sine_data
 
 nnfs.init()
+
 # Softmax + Categorical Crossentropy
 """
 X, y = spiral_data(samples=100, classes=3)
