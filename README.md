@@ -1,6 +1,6 @@
 # Neural Network in Python
 
-Beginner project to understand basic neural networks from the ground up. No external libraries were used (with exception for numpy, for math operations).
+Beginner project to understand basic neural networks from the ground up. No external libraries were used (Exception: numpy, used for math operations).
 
 This Repo contains fundamental building blocks of a neural network:
  - Dense & Dropout Layers
